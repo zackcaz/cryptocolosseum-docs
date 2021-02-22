@@ -1,5 +1,5 @@
 ---
-title: Introduction to the Combat
+title: Introduction to Combat in the Crypto Colosseum
 sidebar_label: Introduction
 slug: '/gamemechanics'
 ---
