@@ -3,6 +3,7 @@ title: Introduction to the Economy
 sidebar_label: Introduction
 slug: '/economy'
 ---
+
 :::tip
 
 This documentation is a work in progress.

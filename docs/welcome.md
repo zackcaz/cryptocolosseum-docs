@@ -1,8 +1,10 @@
 ---
-title: Hail. Welcome to the Arena
+title: Hail. Welcome to the Arena.
 sidebar_label: Introduction
 slug: '/'
 ---
+
+![image](https://uploads-ssl.webflow.com/5fc6691ec3cdff8aee4f3b45/5fcb712f54f899f235ffaedf_Dragons%201.png)
 
 [You should join our discord](https://discord.gg/Z2S3EtQKCn).
 
