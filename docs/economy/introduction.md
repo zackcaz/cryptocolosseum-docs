@@ -33,7 +33,7 @@ Everything in the game is a token. PTG is a token, the gladiators are NFTs, the 
 
 Betting lets players stack PTG and they only need a little luck (and a good ITEM strategy). Bonuses added to the prize pools will be larger earlier on and be reduced over time.  This gives the advantage to those that get in early.
 
-Owning gladiator contracts or factions (or parts thereof) earns you passive PTG.  That can then be farmed into buying bigger shares of existing factions, retaining the services of your own gladiator or even starting a new gladiator or faction and working them up through the laddering system.
+Owning gladiator contracts or factions (or parts thereof) earns you passive PTG.  This is primarily done through staking PTG into a faction.  PTG can then be farmed into buying bigger shares of existing factions, retaining the services of your own gladiator or even starting a new gladiator or faction and working them up through the laddering system.
 
 The Arena is divided into leagues. At the time of this writing the only operating league is the Emperor’s league. This league is the top-echelon league with only the highest rated gladiators and factions competing. At any time only the top 25 gladiators and top 5 factions in terms of PTG holdings may participate in this league.
 
