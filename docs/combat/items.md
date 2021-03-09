@@ -4,14 +4,16 @@ sidebar_label: Items
 slug: '/gamemechanics/items'
 ---
 
+![image](buyItems.png)
+
 There are four different types of items available in Crypto Colosseum.
 The four categories (currently) are potions, scrolls, oils and dusts.  There are three levels of rarity for each type in the current set of items.
 
 More items will be created as the game continues to evolve.
 
-Some items help gladiators by increasing their stats or health.  Other items, often referred to as "curses", decrease their stats or health.
+Some items help gladiators by increasing their stats or health.  Other items, often referred to as _curses_, decrease their stats or health.
 
-All items _currently_ are purchased for a specific gladiator and apply to a single tournament.  Shortly players will be able to purchase items had keep them in their wallets for use when they are most critical.  Each new item will be put on a bonding curve and the price will increase over time.  This means an astute player can invest and then resell powerful items as they are released.
+All items _currently_ are purchased for a specific gladiator and apply to a single tournament.  Shortly players will be able to purchase items had keep them in their wallets for use when they are most critical.  Each new item will be put on a bonding curve and the price will fluctuate based on market demand.  This means an astute player can invest and then resell powerful items as they are released.
 
 :::tip
 Note that any items applied are reset for each round within the tournament.  So a potion drunk during the first round is available again for the finals.
@@ -52,3 +54,4 @@ Overview of First Generation of Items
 | 40 PTG  	| Scroll of Lightning Strike  	| Scroll which increases attack by one hundred and fifty up to one time  	| 20%  	|
 | 125 PTG  	| Curse of the Cryptovisionary  	| Cursed scroll which reduces defense by three hundred and fifty up to one time  	| 20%  	|
 | 525 PTG  	| Scroll of the Crypto King's Blessing  	| Scroll which increases defense by one hundred and fifty against all attacks  	|   	|
+
