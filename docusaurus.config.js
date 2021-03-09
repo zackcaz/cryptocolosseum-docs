@@ -35,34 +35,34 @@ module.exports = {
         colorMode: {
             // "light" | "dark"
             defaultMode: "dark",
-      
+
             disableSwitch: true,
-      
+
             // Should we use the prefers-color-scheme media-query,
             // using user system preferences, instead of the hardcoded defaultMode
             respectPrefersColorScheme: false,
-      
+
             // Dark/light switch icon options
             switchConfig: {
-              // Icon for the switch while in dark mode
-              darkIcon: '🌙',
-      
-              // CSS to apply to dark icon,
-              // React inline style object
-              // see https://reactjs.org/docs/dom-elements.html#style
-              darkIconStyle: {
-                marginLeft: '2px',
-              },
-      
-              // Unicode icons such as '\u2600' will work
-              // Unicode with 5 chars require brackets: '\u{1F602}'
-              lightIcon: '\u{1F602}',
-      
-              lightIconStyle: {
-                marginLeft: '1px',
-              },
+                // Icon for the switch while in dark mode
+                darkIcon: '🌙',
+
+                // CSS to apply to dark icon,
+                // React inline style object
+                // see https://reactjs.org/docs/dom-elements.html#style
+                darkIconStyle: {
+                    marginLeft: '2px',
+                },
+
+                // Unicode icons such as '\u2600' will work
+                // Unicode with 5 chars require brackets: '\u{1F602}'
+                lightIcon: '\u{1F602}',
+
+                lightIconStyle: {
+                    marginLeft: '1px',
+                },
             },
-        },      
+        },
     },
     presets: [
         [
@@ -72,12 +72,7 @@ module.exports = {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
                     routeBasePath: '/',
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
-                },
-                blog: {
-                    showReadingTime: true,
-                    // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+                    editUrl: 'https://github.com/quorumcontrol/cryptocolosseum-docs/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
