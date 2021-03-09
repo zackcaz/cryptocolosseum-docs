@@ -1,21 +1,26 @@
-import React from 'react';
-import { Pie } from '@ant-design/charts';
+import React from "react";
+import { PieChart, Pie, Legend, Cell, Tooltip, Label, LabelList } from "recharts";
 
-const PieChart: React.FC<{ data:{type:string, value:number}[] }> = ({ data }) => {
-  var config = {
-    appendPadding: 10,
-    data: data,
-    angleField: 'value',
-    colorField: 'type',
-    radius: 0.8,
-    label: {
-      type: 'spider',
-      labelHeight: 28,
-      content: '{name}\n{percentage}',
-    },
-    interactions: [{ type: 'element-selected' }, { type: 'element-active' }],
-  };
-  return <Pie {...config} />;
+const COLORS=['#845ec2', '#ffc75f', '#f9f871', '#ff5e78']
+
+const Chart: React.FC<{ data: { name: string; value: number }[] }> = ({
+  data,
+}) => {
+
+  return (
+    <PieChart width={800} height={400}>
+      <Legend />
+      <Pie data={data} dataKey="value" nameKey="name" cx="50%" cy="50%" innerRadius={0} outerRadius={140} label>
+      {
+        data.map((entry, index) => (
+          <Cell key={`slice-${index}`} fill={COLORS[index % 10] as string}/>
+        ))
+      }
+      </Pie>
+      <Tooltip trigger="hover" />
+
+    </PieChart>
+  );
 };
 
-export default PieChart
+export default Chart;
