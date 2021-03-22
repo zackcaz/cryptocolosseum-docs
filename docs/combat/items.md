@@ -27,31 +27,25 @@ Overview of First Generation of Items
 
 | Price  	| Name  	| Effect   	| Trigger%  	|
 |---	|---	|---	|---	|
-| 50 PTG  	| Potion of Healing  	| Adds two hundred health one time  	| 20%  	|
-| 200 PTG  	| Potion of Hardened Skin  	| Adds three hundred health one time  	| 25%  	|
-| 325 PTG  	| Elixir of Recovered Consensus  	| Adds three hundred and twenty health up to two times  	| 25%  	|
-
-** Dusts: **
-
-| Price  	| Name  	| Effect   	| Trigger%  	|
-|---	|---	|---	|---	|
-| 65 PTG  	| Dust of Distraction  	| Dust which subtracts two hundred and fifty defense one time  	| 20%  	|
-| 175 PTG  	| Dust of the Soulmonger  	| Dust which adds one hundred hit points up to four times  	| 20%  	|
-| 455 PTG  	| Dust of the MeleeMancer  	| Dust which adds two hundred attack up to three times  	| 30%  	|
+| 50 PTG  	| Potion of Healing  	| Adds two hundred health one time  	| 25%  	|
+| 150 PTG  	| Potion of Token Might  	| Adds two hundred and fifty health up to two times  	| 25%  	|
+| 350 PTG  	| Elixir of Recovered Consensus  	| Adds three hundred and fourty health up to two times  	| 35%  	|
+| 375 PTG  	| Elixir of the Forever Ledger  	| Adds one hundred and eighty health up to four times  	| 30%  	|
 
 ** Oils: **
 
 | Price  	| Name  	| Effect   	| Trigger%  	|
 |---	|---	|---	|---	|
-| 45 PTG  	| Oil of Sharpness  	| Oil which enhances weapons to add one hundred and fifty attack up to two times  	| 60%  	|
-| 175 PTG  	| Oil of the Moon Shot  	| Oil which enhances weapons to add seventy five attack to every attack  	|   	|
-| 375 PTG  	| Oil of Burning Pump and Dump  	| Oil which burns and distracts reducing attack by three hundred and fifty one time  	| 30%  	|
+| 65 PTG  	| Oil of Sharpness  	| Oil which enhances weapons to add one hundred and sixty attack up to two times  	| 70%  	|
+| 175 PTG  	| Oil of the Swift Doge  	| Oil which enhances armor improving defense by two hundred up to three times  	| 50%  	|
+| 365 PTG  	| Oil of Grinding Attack  	| Oil which enhances weapons to add one hundred attack to every attack  	|   	|
+| 400 PTG  	| Oil of the Elusive Moon Shot  	| Oil which enhances armor improving defense by two hundred and fifty up to three times  	| 70%  	|
 
-** Scrolls: **
+** Curses: **
 
 | Price  	| Name  	| Effect   	| Trigger%  	|
 |---	|---	|---	|---	|
-| 40 PTG  	| Scroll of Lightning Strike  	| Scroll which increases attack by one hundred and fifty up to one time  	| 20%  	|
-| 125 PTG  	| Curse of the Cryptovisionary  	| Cursed scroll which reduces defense by three hundred and fifty up to one time  	| 20%  	|
-| 525 PTG  	| Scroll of the Crypto King's Blessing  	| Scroll which increases defense by one hundred and fifty against all attacks  	|   	|
-
+| 60 PTG  	| Curse of Forked Choice  	| Curse which reduces attack by two hundred and fifty up to one time  	| 25%  	|
+| 150 PTG  	| Curse of the Crypto King  	| Cursed scroll which reduces defense by three hundred up to one two times  	| 30%  	|
+| 300 PTG  	| Curse of Epoch Madness  	| Curse which reduces attack by two hundred against up to three times  	| 30% 	|
+| 400 PTG  	| Curse of the Cracked Hash  	| Curse which decreases defense by one hundred and fifty against all attacks  	|   	|
