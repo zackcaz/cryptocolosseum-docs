@@ -11,7 +11,7 @@ All statements are about the current state of the game and subject to change as 
 
 :::
 
-There are daily tournaments and more elaborate weekly tournaments.  There are daily tournaments six days a week, from Monday to Saturday.  They are held at the same time each day.
+There are daily tournaments and more elaborate weekly tournaments.  There are two daily tournaments six days a week, from Monday to Saturday.  They are held at the same time each day.
 
 *** Tournament Structure ***
 
