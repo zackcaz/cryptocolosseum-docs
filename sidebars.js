@@ -5,6 +5,9 @@ module.exports = {
         'Economy': ['economy/basics', 'economy/items', 'economy/tokenSupply'],
         'Game Mechanics': ['combat/introduction', 'combat/items', 'combat/combatexample'],
         'Tournaments': ['tournaments/introduction'],
-        'Use of AI': ['ai/aiusage'],
+        'Articles': [
+            'ai/aiusage',
+            'articles/biconomy',
+        ]
     },
 };
