@@ -28,6 +28,9 @@ module.exports = {
                         label: 'Twitter',
                         href: 'https://twitter.com/cryptocolosseum',
                     },
+                    {
+                        'html': '<script data-host="https://statonics.com" data-dnt="false" src="https://statonics.com/js/script.js" id="ZwSg9rf6GA" async defer></script>',
+                    }
                 ],
             }, ],
             copyright: `Copyright © ${new Date().getFullYear()} Quorum Control GmbH.`,
