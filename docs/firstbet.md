@@ -10,7 +10,7 @@ Gladiators have tournaments.  You place your bet on which of the four gladiators
 
 To get started, the first thing you need to do is sign up.  Click on the orange "Sign in / Sign up" in the upper right hand corner to do so. Its easy, we promise.
 
-![image](signin.png)
+![image](signIn.png)
 
 There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  It will also hold your in-game NFTs in the future.  You own the wallet and its contents and we can not access it without your permission.
 
