@@ -12,11 +12,11 @@ To get started the first thing you need to do is sign up.  Click on the orange "
 
 ![image](signin.png)
 
-There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  (As well as hold your in-game NFTs)  You own it and we can not access it without your permission.
+There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  (As well as hold your in-game NFTs.)  You own it and we can not access it without your permission.
 
 ![image](picktraditional.png)
 
-The creation of your wallet and the linking to your existing account elsewhere is done through Torus.  You don't need to worry about that for now but you can access that through the "T" in the bottom left at all times.
+The creation of your wallet and the linking to your existing account elsewhere is done through [Torus](https://tor.us).  You don't need to worry about that for now but you can access that through the "T" in the bottom left at all times.
 
 After completing the process and confirming you want to give the game a try you will recieve a grant of 1000 PTG or prestige.  This is crypto currency minted just for playing Crypto Colosseum.  You can exchange it for other crypto currencies or buy more but thats a later guide.
 
@@ -42,4 +42,4 @@ The game holds surprising complexity and there are many aspects to learn, but be
 
 Most of all have fun!  
 It's whimsical violence.  It's degengerate gambling and The Arena just gave you free money.  
-Party time!
+Battle time!
