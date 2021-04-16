@@ -1,6 +1,6 @@
 module.exports = {
     someSidebar: {
-        'Start here pleb': ['welcome'],
+        'Start here pleb': ['welcome','firstbet'],
         'Collecting': ['collecting/gladiators'],
         'Economy': ['economy/basics', 'economy/items', 'economy/tokenSupply'],
         'Game Mechanics': ['combat/introduction', 'combat/items', 'combat/combatexample'],
