@@ -38,7 +38,7 @@ If you are the type to want to know more before you bet check out [combat basisc
 
 Once you click to place your bet a popup with ask you how much to bet.  Then once you submit that your wallet will check if you are really sure you want to put some of the PTG in your pocket on the line.  Confirm that and you are off and running!  (Look for popup blockers etc if you dont see the confirmation requests).
 
-The game holds surprising complexity and there are many aspects to learn but bet a few times and then explore the item market (on bonding curves), bidding on a gladiator contract (all income generating NFTs) and even explore getting your own share of the factions and their winnings.
+The game holds surprising complexity and there are many aspects to learn, but bet a few times and then explore the item market (on bonding curves), bidding on a gladiator contract (income generating NFTs) and even explore getting your own share of the factions and their winnings.
 
 Most of all have fun!  
 Its whimsical violence.  Its degengerate gambling and we just gave you free money.  
