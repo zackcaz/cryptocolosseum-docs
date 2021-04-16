@@ -8,15 +8,15 @@ Crypto Colosseum is (in the beginning) a simple gambling game.
 
 Gladiators have tournaments.  You place your bet on which of the four gladiators will win the tournament.  You get a share of the prize purse if you are right.
 
-To get started the first thing you need to do is sign up.  Click on the orange "Sign in / Sign up" in the upper right hand corner to do so. Its easy we promise.
+To get started, the first thing you need to do is sign up.  Click on the orange "Sign in / Sign up" in the upper right hand corner to do so. Its easy, we promise.
 
 ![image](signin.png)
 
-There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  (As well as hold your in-game NFTs.)  You own it and we can not access it without your permission.
+There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  It will also hold your in-game NFTs in the future.  You own the wallet and its contents and we can not access it without your permission.
 
 ![image](picktraditional.png)
 
-The creation of your wallet and the linking to your existing account elsewhere is done through [Torus](https://tor.us).  You don't need to worry about that for now but you can access that through the "T" in the bottom left at all times.
+The creation of your wallet and the linking to one of your existing accounts is done through [Torus](https://tor.us).  You don't need to worry about that for now, but you can access that through the "T" in a blue circle in the bottom left at any time.
 
 After completing the process and confirming you want to give the game a try you will recieve a grant of 1000 PTG or prestige.  This is crypto currency minted just for playing Crypto Colosseum.  You can exchange it for other crypto currencies or buy more but thats a later guide.
 
