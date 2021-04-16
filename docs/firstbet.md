@@ -12,7 +12,7 @@ To get started the first thing you need to do is sign up.  Click on the orange "
 
 ![image](signin.png)
 
-We have provided several different ways for you to do so but if you are new to the game and to crypto, the easiest way is to use an existing account such as gmail.  When you do this we are actually creating a special vault or wallet for you to recieve and spend your crypto currency (PTG) from.  (As well as other things.)  You own it through your gmail or social media account we can not access it without your permission.
+There are several different ways to login, but if you are new to the game and to crypto, the easiest way is to use an existing account (like gmail).  When you do this we are actually creating a special vault or wallet to receive and spend your crypto currency (PTG).  (As well as hold your in-game NFTs)  You own it and we can not access it without your permission.
 
 ![image](picktraditional.png)
 
