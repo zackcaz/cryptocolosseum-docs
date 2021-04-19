@@ -1,0 +1,42 @@
+---
+title: Prestige Liquidity Rewards
+sidebar_label: Announcing Liquidity
+slug: '/articles/fonticulus_announce'
+---
+import Mermaid from '@theme/Mermaid'
+
+It's a new era in the Arena. Nothing here should be construed as financial nor investment advice. Do your own research. The PTG token is a game asset. Nothing here should be construed as suggesting the price of $PTG will go up or that you will make money.
+
+## Why?
+
+Lots of folks have asked for a way to buy more $PTG so they can make bigger bets, buy more items, and particpate in upoming Gladiator / Ultra-rare auctions. Liquidity for Prestige ($PTG) is an important aspect of gameplay, allowing folks to purchase $PTG on the open market and move up the ranks faster. Now players can either spend time grinding up from their $PTG 1000 new player rewards or buy into the protocol to increase their standings.
+
+We view this liquidity as a necessary step before Gladiator auctions can happen. Folks need a way to bid what they want on special items and gladiators.
+
+## A new way to earn Prestige ($PTG)
+
+![shut up and take my money](https://media.giphy.com/media/l5Dh6boITiHi4vAWMZ/source.gif)
+
+Crypto Colosseum just launched a liquidity rewards program. [Read more about it here](/economy/liquidity_mining).
+
+TL;DR
+
+* 10mm prestige available in traunch One
+* No need to buy prestige. $PTG is *granted* to you in exchange for providing 90 days of liquidity.
+* Prestige ($PTG) launched at 1 $MATIC buys 60 $PTG.
+* Rewards UI is here: https://fonticulus.cryptocolosseum.com/?network=matic
+
+Liquidity is provided as a pair on the [QuickSwap](https://info.quickswap.exchange/pair/0xEc78d09aFBee1Ee3a8D3446aD0D5600d62C21eB3) exchange. QuickSwap is the Polygon version of Uniswap and has the deepest liquidity of any exchange on the Polygon network.
+
+<Mermaid chart={`
+sequenceDiagram
+    participant Alice
+    participant Fonticulus
+    participant QuickSwap
+    Alice->>Fonticulus: Sends 1 $MATIC
+    Note over Alice,Fonticulus: Note: Alice does not need to provide $PTG.
+    Fonticulus->>QuickSwap: adds liquidity (1 MATIC, 60 PTG)
+    QuickSwap->>Fonticulus: sends 1 LP token
+    Note over QuickSwap,Fonticulus: Fonticulus holds the LP token
+    Fonticulus->>Alice: NFT good for 1 LP token (redeemable in 90 days)
+`} />
