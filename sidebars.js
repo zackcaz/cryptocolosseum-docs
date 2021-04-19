@@ -8,7 +8,8 @@ module.exports = {
         'Articles': [
             'ai/aiusage',
             'articles/biconomy',
-            'articles/fonticulus_announce'
+            'articles/fonticulus_announce',
+            'articles/get_matic',
         ]
     },
 };
