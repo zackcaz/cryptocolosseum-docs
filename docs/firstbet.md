@@ -41,5 +41,5 @@ Once you click to place your bet a popup will ask you how much you wish to wager
 The game is surprisingly complex and there are many aspects to learn, but bet a few times and then you can begin to explore the item market (on bonding curves), bidding on a gladiator contracts (income generating NFTs) and getting your own share of the factions and their winnings.
 
 Most of all, have fun!  
-It's whimsical violence.  It's degengerate gambling and The Arena just gave you free money.  
+It's whimsical violence.  It's degenerate gambling and The Arena just gave you free money.  
 Battle time!
