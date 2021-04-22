@@ -16,11 +16,11 @@ Twice daily, gladiators battle it out in the arena. They fight for factions (ETH
 
 Players (that's you) bet on the match. Players buy items to boost warriors (or undermine foes).
 
-### Many ways to stack your PTG
+### Many ways to stack your [PTG](./economy/prestige_token)
 
 * Wager correctly on your favorite warrior.
-    * remember you can influence these battles.
-* Collect and trade items.
+    * Remember - you can influence these battles by purchasing [items](./game_mechanics/items)
+* Collect and trade [items](./game_mechanics/items).
 * Purchase gladiator contracts for passive income.
 * Purchases shares in factions for passive income.
 * Farm your PTG for passive income.

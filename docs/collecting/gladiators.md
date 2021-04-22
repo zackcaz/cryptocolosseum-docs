@@ -6,17 +6,17 @@ slug: '/collecting/gladiators'
 
 The arena features 99 primordial gladiators. Only 25 are currently minted and building history. Each of these gladiators features rich backstories. They have a record in the Arena and have accumulated trophies and $PTG through battles. Collectable gladiators cannot be minted, they are forged by emerging victorious in the Arena.
 
-Let's take a look at Katana. As of 16 March, 2021 she is the Arena's winningest gladiator: https://arena.cryptocolosseum.com/gladiator/3?faction=MTC (some history happened on testnet and is not displayed at that link). Notice her token id: 3.
+Let's take a look at [Katana](https://arena.cryptocolosseum.com/gladiator/3?faction=MTC). Notice her token id: 3.
 
 ### tldr;
 
-Each gladiator Contracts has a:
+Each gladiator Contract has a:
 * Rich backstory
 * Provable Provenance
-* An unmintable history of glory in the Arena
+* Unmintable history of glory in the Arena
 * Cashflow
 
-By owning a gladiator contract you are becoming part of the Arena, shaping the future of the battle and earning PTG while you sleep and your gladiator battles on your behalf.
+By owning a gladiator contract you are becoming part of the Arena, shaping the future of the battle and earning [PTG](../economy/prestige_token) while you sleep and your gladiator battles on your behalf.
 
 ### Katana
 
