@@ -17,16 +17,16 @@ Each new item is released on a bonding curve and the price fluctuates based on m
 [See the economy section on items](/economy/items)
 
 :::tip
-Note that any items applied are reset for each round within the tournament. So a potion drunk during the first round is available again for the finals.
+Note that any items applied are reset for each round within the tournament. So a potion consumed during the first round is available again for the finals.
 :::
 
-Items have variable numbers of usages and differing chances of triggering. This can have a big impact on their value and their impact on the game.
+Items have variable numbers of usages and differing chances of being applied. This can have a big impact on their value and their impact on the game.
 
 Overview of First Generation of Items
 
 ** Potions: **
 
-| Name  	| Effect   	| Trigger%  	|
+| Name  	| Effect   	| Chance of Application  	|
 |---	|---	|---	|
 | Potion of Healing  	| Adds two hundred health one time  	| 25%  	|
 | Potion of Token Might  	| Adds two hundred and fifty health up to two times  	| 25%  	|
@@ -35,18 +35,18 @@ Overview of First Generation of Items
 
 ** Oils: **
 
-| Name  	| Effect   	| Trigger%  	|
+| Name  	| Effect   	| Chance of Application  	|
 |---	|---	|---	|
 | Oil of Sharpness  	| Oil which enhances weapons to add one hundred and sixty attack up to two times  	| 70%  	|
 | Oil of the Swift Doge  	| Oil which enhances armor improving defense by two hundred up to three times  	| 50%  	|
-| Oil of Grinding Attack  	| Oil which enhances weapons to add one hundred attack to every attack  	|   	|
+| Oil of Grinding Attack  	| Oil which enhances weapons to add one hundred attack to every attack  	|  100% 	|
 | Oil of the Elusive Moon Shot  	| Oil which enhances armor improving defense by two hundred and fifty up to three times  	| 70%  	|
 
 ** Curses: **
 
-| Name  	| Effect   	| Trigger%  	|
+| Name  	| Effect   	| Chance of Application  	|
 |---	|---	|---	|
 | Curse of Forked Choice  	| Curse which reduces attack by two hundred and fifty up to one time  	| 25%  	|
 | Curse of the Crypto King  	| Cursed scroll which reduces defense by three hundred up to one two times  	| 30%  	|
 | Curse of Epoch Madness  	| Curse which reduces attack by two hundred against up to three times  	| 30% 	|
-| Curse of the Cracked Hash  	| Curse which decreases defense by one hundred and fifty against all attacks  	|   	|
+| Curse of the Cracked Hash  	| Curse which decreases defense by one hundred and fifty against all attacks  	| 100%  	|
