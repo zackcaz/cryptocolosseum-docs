@@ -19,8 +19,8 @@ Players (that's you) bet on the match. Players buy items to boost warriors (or u
 ### Many ways to stack your [PTG](./economy/prestige_token)
 
 * Wager correctly on your favorite warrior.
-    * Remember - you can influence these battles by purchasing [items](./game_mechanics/items)
-* Collect and trade [items](./game_mechanics/items).
+    * Remember - you can influence these battles by purchasing [items](/economy/items)
+* Collect and trade [items](/economy/items).
 * Purchase gladiator contracts for passive income.
 * Purchases shares in factions for passive income.
 * Farm your PTG for passive income.
