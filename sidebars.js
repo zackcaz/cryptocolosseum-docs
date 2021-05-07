@@ -9,6 +9,7 @@ module.exports = {
             'ai/aiusage',
             'articles/biconomy',
             'articles/fonticulus_announce',
+            'articles/fonticulus2_announce',
             'articles/get_matic',
         ]
     },

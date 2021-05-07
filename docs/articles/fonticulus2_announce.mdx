@@ -1,0 +1,35 @@
+---
+title: New Round of Liquidity Rewards
+sidebar_label: Round 2 Liquidity Rewards
+slug: '/articles/fonticulus2_announce'
+---
+import Mermaid from '@theme/Mermaid'
+
+### Traunch Two
+* 10mm PTG available
+* $MATIC/$PTG Pair
+* 90 day lockup from time of deposit
+* 80% $PTG provided (10% of send used to purchase PTG)
+
+Traunch 1 of liquidity rewards filled up in 10 days without announcing outside our community. Traunch 2 is now available, and there will be quicker turn around between rounds from now on.
+
+Traunch 2 works the same as traunch 1 (read more [here](./fonticulus_announce), [here](/economy/liquidity_mining)). The only difference is now 80% of the PTG side of your liquidity is provided for you.
+
+When you send matic to fonticulus, it uses 10% of your send to buy PTG from the pool, then it deposits the rest into the liquidity pool and does the same lockup as before (90 days).
+
+The new flow:
+
+<Mermaid chart={`
+sequenceDiagram
+    participant Alice
+    participant Fonticulus
+    participant QuickSwap
+    Alice->>Fonticulus: Sends 10 $MATIC
+    Fonticulus-->>QuickSwap: What's the price of PTG?
+    QuickSwap-->>Fonticulus: 60 PTG per MATIC
+    Fonticulus->>QuickSwap: swap 1 $MATIC for 60 PTG
+    Fonticulus->>QuickSwap: addLiquidity(9 MATIC, 540 PTG) - 480 PTG supplied as a reward.
+    QuickSwap->>Fonticulus: sends 9 LP tokens
+    Note over QuickSwap,Fonticulus: Fonticulus holds the LP tokens
+    Fonticulus->>Alice: NFT good for 9 LP token (redeemable in 90 days)
+`} />
