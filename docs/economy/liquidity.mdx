@@ -5,26 +5,27 @@ slug: '/economy/liquidity_mining'
 ---
 import Mermaid from '@theme/Mermaid'
 
-Liquidity incentives are distributed in traunches. As of this writing, Traunch One is available here: https://fonticulus.cryptocolosseum.com/?network=matic .
+Liquidity incentives are distributed in traunches. As of this writing, traunch two is available here: https://fonticulus.cryptocolosseum.com/?network=matic .
 
 Liquidity providers earn Prestige ($PTG) by providing liquidity to the protocol. Unlike other token farms the $PTG bootstrap operates a little differently: there is no need to buy $PTG (in Traunch One).
 
 The name of the contract and app providing the PTG is Fonticulus.
 
-$PTG liquidity is provided as a pair trading on [QuickSwap](https://info.quickswap.exchange/pair/0xEc78d09aFBee1Ee3a8D3446aD0D5600d62C21eB3) (The polygon equivalent of Uniswap). You provide the $MATIC side of the pair and fonticulus will *give* you the $PTG side for the pool. Fonticulus requires you lock your LP token for 90 days. Since you are supplied fully 50% of the pair, your annualized APY is 400% (assuming a flat price for $PTG).
+$PTG liquidity is provided as a pair trading on [QuickSwap](https://info.quickswap.exchange/pair/0xEc78d09aFBee1Ee3a8D3446aD0D5600d62C21eB3) (The polygon equivalent of Uniswap). You provide the $MATIC side of the pair and fonticulus will *give* you the $PTG side for the pool. Fonticulus requires you lock your LP token for 90 days.
 
 <Mermaid chart={`
 sequenceDiagram
     participant Alice
     participant Fonticulus
     participant QuickSwap
-    Alice->>Fonticulus: Sends 1 $MATIC
+    Alice->>Fonticulus: Sends 10 $MATIC
     Fonticulus-->>QuickSwap: What's the price of PTG?
     QuickSwap-->>Fonticulus: 60 PTG per MATIC
-    Fonticulus->>QuickSwap: addLiquidity(1 MATIC, 60 PTG)
-    QuickSwap->>Fonticulus: sends 1 LP token
-    Note over QuickSwap,Fonticulus: Fonticulus holds the LP token
-    Fonticulus->>Alice: NFT good for 1 LP token (redeemable in 90 days)
+    Fonticulus->>QuickSwap: swap 1 $MATIC for 60 PTG
+    Fonticulus->>QuickSwap: addLiquidity(9 MATIC, 540 PTG) - 480 PTG supplied as a reward.
+    QuickSwap->>Fonticulus: sends 9 LP tokens
+    Note over QuickSwap,Fonticulus: Fonticulus holds the LP tokens
+    Fonticulus->>Alice: NFT good for 9 LP token (redeemable in 90 days)
 `} />
 
 In 90 days, Alice may redeem the Fonticulus NFT for the QuickSwap LP tokens.
@@ -37,12 +38,19 @@ Fonticulus operates on the Polygon (MATIC) mainnet (not ETH mainnet) and require
 
 ### Contracts
 
-* Fonticulus: [0xBd36b7036E4Bd36EAeaB2c05a2faBb7630DBAbB9](https://explorer-mainnet.maticvigil.com/address/0xBd36b7036E4Bd36EAeaB2c05a2faBb7630DBAbB9)
+* Fonticulus: [0xBa1428c302cE818865beb857FaF7Ab513C1e3a40](https://explorer-mainnet.maticvigil.com/address/0xBa1428c302cE818865beb857FaF7Ab513C1e3a40/contracts)
+* FonticulusTraunchOne (complete): [0xBd36b7036E4Bd36EAeaB2c05a2faBb7630DBAbB9](https://explorer-mainnet.maticvigil.com/address/0xBd36b7036E4Bd36EAeaB2c05a2faBb7630DBAbB9)
 * QuickSwap pair: [0xEc78d09aFBee1Ee3a8D3446aD0D5600d62C21eB3](https://info.quickswap.exchange/pair/0xEc78d09aFBee1Ee3a8D3446aD0D5600d62C21eB3)
 * Wrapped $PTG (erc20): [0xc0f14c88250e680ecd70224b7fba82b7c6560d12](https://explorer-mainnet.maticvigil.com/address/0xc0f14C88250E680eCd70224B7fBa82b7C6560d12)
 * Assets (erc-1155): [0xaeF876EE95d0fEEAF5A5DeDd4531cBA074519BEb](https://explorer-mainnet.maticvigil.com/address/0xaeF876EE95d0fEEAF5A5DeDd4531cBA074519BEb/transactions)
 
-### Traunch One
+### Traunch Two
+* 10mm PTG available
+* $MATIC/$PTG Pair
+* 90 day lockup from time of deposit
+* 80% $PTG provided (10% of send used to purchase PTG)
+
+### Traunch One (filled)
 
 * 10mm PTG available
 * $MATIC/$PTG Pair
