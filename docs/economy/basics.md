@@ -19,9 +19,9 @@ Here’s a walk through of PTG and how you can earn your way to emperor of the A
 * Players buy items which enhance (or hinder) a gladiator’s chance to win.
     * For example, increase attack or decrease defense.
 * Players that bet correctly share in their pro-rata share of the entire pot (minus gladiator winnings).
-* Gladiators win 20% of the betting pool.
+* Gladiators win 5% of the betting pool (not including incentives).
 * 25% of the gladiator’s winnings go to the Faction they fought in.
-    * For example if a gladiator fought in a tournament with $PTG 100 at stake and won, the gladiator would receive $PTG 18.75 and the faction $PTG 6.25
+    * For example if a gladiator fought in a tournament with $PTG 100 at stake and won, the gladiator would receive $PTG 3.75 and the faction $PTG 1.25
 
 Already we have an emergent multiplayer game with interesting psychological dynamics. Do I wait to bet big? Do I load up my gladiators with the maximum allowed items and then wait? Do I bet big and *then* come in and fill up items on other gladiators. Each tournament is like a giant game of bridge but instead of cards we have gory battles and AI-enhanced pre-battle taunting.
 
