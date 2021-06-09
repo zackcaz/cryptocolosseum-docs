@@ -19,9 +19,15 @@ Each tournament has four participant gladiators and three matches.  All bets on 
 
 In the "semi-finals" each gladiator is paired with one other.  The winner of those semi-finals matches qualify for the finals.  The winner of the tournament is the gladiator that wins the finals match.  There is only one winner for each tournament.
 
-The winners of each daily tournament are eligible for the weekly "Qualifier Tournament" currently held each Wednesday.  Those will have a larger prize pool.  Each winner of the weekly tournament is then qualified for the next "Champion of Champions" tournament that are held monthly.  These are the pinnacle of achievement for a gladiator in the Crypto Colosseum world.
+The winners of each daily tournament are eligible for the weekly "Qualifier Tournament" currently held each Wednesday.  Those will have a larger prize pool (currently 100k PTG).  Each winner of the weekly tournament is then qualified for the next "Champion of Champions" tournament that are held periodically.  These are the pinnacle of achievement for a gladiator in the Crypto Colosseum world.
 
-*** Leagues ***
+There may also from time to time be special tournaments such as a Free Agent tournament.  The gladiator that wins the Free Agent tournament has their contract put up for auction!
+
+Below you can find additional information about what different portions of the tournament page mean.
+
+![image](tournament.png)
+
+***Leagues***
 
 There is one league at this time, the Emporer's League.
 
