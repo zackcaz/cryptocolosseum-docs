@@ -42,7 +42,7 @@ Once you click to place your bet a popup will ask you about your wager and give 
 
 Once you click on "USE FREE 100 PTG BET", your wallet will check if you are really sure you want to place the bet.  Confirm the transaction and you are off and running!  (Look for popup blockers etc if you dont see the confirmation requests).
 
-The game is surprisingly deep considering how simple the basic mechnicisms are.  Before worrying about other aspects of the game, bet a few times and get a feel for the game.  Then when you are ready you can begin to explore the item market (on bonding curves), bid on a gladiator contract (income generating NFT) and get your own share of the crypto factions and share in their profits.
+The game is surprisingly deep considering how simple the basic mechanisms are.  Before worrying about other aspects of the game, bet a few times and get a feel for the game.  Then when you are ready you can begin to explore the item market (on bonding curves), bid on a gladiator contract (income generating NFT) and get your own share of the crypto factions and share in their profits.
 
 Don't forget to join us in [our discord](https://discord.gg/Z2S3EtQKCn) where the gladaitors talk trash (courtesy of our AI) and fans cheer on their favorites.
 
