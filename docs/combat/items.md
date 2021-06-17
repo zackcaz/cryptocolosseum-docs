@@ -50,3 +50,21 @@ Overview of First Generation of Items
 | Curse of the Crypto King  	| Cursed scroll which reduces defense by three hundred up to one two times  	| 30%  	|
 | Curse of Epoch Madness  	| Curse which reduces attack by two hundred against up to three times  	| 30% 	|
 | Curse of the Cracked Hash  	| Curse which decreases defense by one hundred and fifty against all attacks  	| 100%  	|
+
+** Off Market Ucommons (Gen 4): **
+
+| Name  	| Effect   	| Chance of Application  	|
+|---	|---	|---	|
+| Potion of Joyous Life  	| Adds four hundred and twenty health one time 	| 42%  	|
+| Oil of the Rich Swoll  	| Oil which enhances attack by one hundread and eighty five on up to three attacks.	| 40%  	|
+| Curse of the Vicious Rug Pull  	| Curse which reduces attack by two hundred against up to three times  	| 40% 	|
+
+** (Non-comprehensive) Sampling of Very and Ultra Rares **
+
+| Name  	| Effect   	| Chance of Application  	| Max Ever Created   |
+|---	|---	|---	|---    |
+| OG Boots of Burning Footwork  	| Exotic leather boots which improve either attack or defense by 315 up to 4 times 	| 40%  	| 64    |
+| OG Hood of the Streamer  	| Mysterious hood which heals the wearer 325 and potentially adds 100 to attack or defense up to 4 times 	| 40%  	| 64    |
+| Belt of the Bankless Blitz  	| A bright purple-gold belt that jingles like coins and which boosts the wearers attack 420 up to 4 times 	| 50%  	| 16    |
+| Monocle of Biconomic Insight  	| Insightfully filagreed monocle that heals the wearer for 350 and potentially boosts the wearers attack by 200 up to 4 times 	| 40%  	| 8    |
+| Diadem of the Lords of Liquidity  	| A dark liquid crown which boosts the wearers attack or defense by 375 up to 4 times 	| 40%  	| 16    |
