@@ -11,4 +11,4 @@ Let the recording of the WHIMSICAL VIOLENCE commence!
 
 | Rank  	| Description   	| Combatants  	| Damage  	| link  |
 |---	|---	|---	|---	|---    |---    |
-| 1 | Big Hit! | Gladiator vs Gladiator | 1011 and 1000 | [link](arena.cryptocolosseum.com)
+| 1 | Big Hit! | Gladiator vs Gladiator | 1011 and 1000 | [link](https://arena.cryptocolosseum.com)

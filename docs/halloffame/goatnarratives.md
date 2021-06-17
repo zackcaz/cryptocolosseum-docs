@@ -10,6 +10,6 @@ This page stands to record some of the greatest narrative moments to come out of
 
 | Rank  	| Narrative	| Date  | link  | I was there
 |---	|---	|---	|---    |---    |
-| 1 | Epic Trash talking between Victor Victorious and Dread Pirate Roberta | June 16, 2021 | [link](arena.cryptocolosseum.com)| @icarusz
+| 1 | Epic Trash talking between Victor Victorious and Dread Pirate Roberta | June 16, 2021 | [link](https://discord.gg/kUCxPuqhGN)| @icarusz
 
 ![image](VVvsDPRTrashTalkJune16.png)
