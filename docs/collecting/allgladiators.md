@@ -31,11 +31,11 @@ Dread Pirate Roberta	| 1224	| 706	| 2012	| 600   | Lower the Boom  | [link](http
 
 | Name  	| Attack   	| Defense  	| Health   	| Pop  	| link  	|
 |---	|---	|---	|---    |---    |---    |
-| Vorpal    | 785    | 900    |	1850    |     |	[link](https://arena.cryptocolosseum.com/gladiator/16)
-| Troy Hard    | 905    | 745    |	1765    |    | [link](https://arena.cryptocolosseum.com/gladiator/17)	
-| Victor Victorious | 1020	| 750	| 1965  |   | [link](https://arena.cryptocolosseum.com/gladiator/18)
+| Vorpal    | 785    | 900    |	1850    |  300  |	[link](https://arena.cryptocolosseum.com/gladiator/16)
+| Troy Hard    | 905    | 745    |	1765    |  100  | [link](https://arena.cryptocolosseum.com/gladiator/17)	
+| Victor Victorious | 1020	| 750	| 1965  | 350 | [link](https://arena.cryptocolosseum.com/gladiator/18)
 | Rhubarb Redribs | 1125	| 835	| 1655| 600 | [link](https://arena.cryptocolosseum.com/gladiator/19)
-| Caesar Mayhem | 1340	| 705	| 1575|     | [link](https://arena.cryptocolosseum.com/gladiator/20)	
+| Caesar Mayhem | 1340	| 705	| 1575| 400 | [link](https://arena.cryptocolosseum.com/gladiator/20)	
 | TamTam | 1210	| 320	| 2440	| 400   | [link](https://arena.cryptocolosseum.com/gladiator/21)
 | Talon | 1305	| 465	| 1635	| 300   | [link](https://arena.cryptocolosseum.com/gladiator/22)
 | Nephrititi Nakamoto | 1195	| 760	| 1655	| 700   | [link](https://arena.cryptocolosseum.com/gladiator/23)
