@@ -12,3 +12,4 @@ Let the recording of the WHIMSICAL VIOLENCE commence!
 | Rank  	| Description 	| Payout| Deets  	| Date  	| link  |
 |---	|---	|---	|---	|---    |---    |
 | 1 | Talon pays out huge! | 1000 to 1 | A single 100PTG bet won a 103700 Purse | June 16, 2021 | [link](https://arena.cryptocolosseum.com/tournament/1099528405191)
+| 2 | Monday Double Longshot Day!  TamTam and Caesar Mayhem win ALPHA and OMEGA | TamTam 515 to 1 AND Caesar Mayhem 116 to 1 | In a crazy double header two real longshots both won.  Neither beats the #1 Talon but if you multiply them!!!| June 21, 2021 | [TamTam link](https://arena.cryptocolosseum.com/tournament/1099528405201) [Mayhem link](https://arena.cryptocolosseum.com/tournament/1099528405202)
