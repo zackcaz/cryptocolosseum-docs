@@ -38,4 +38,4 @@ Dread Pirate Roberta	| 1224	| 706	| 2012	| 600   | Lower the Boom  | [link](http
 | Caesar Mayhem | 1340	| 705	| 1575|     | [link](https://arena.cryptocolosseum.com/gladiator/20)	
 | TamTam | 1210	| 320	| 2440	| 400   | [link](https://arena.cryptocolosseum.com/gladiator/21)
 | Talon | 1305	| 465	| 1635	| 300   | [link](https://arena.cryptocolosseum.com/gladiator/22)
-| Nephrititi Nakamoto | 1195	| 760	| 1655	| 700   | [link](https://arena.cryptocolosseum.com/gladiator/23)
+| Nefertiti Nakamoto | 1195	| 760	| 1655	| 700   | [link](https://arena.cryptocolosseum.com/gladiator/23)
