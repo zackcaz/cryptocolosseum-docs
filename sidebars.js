@@ -20,6 +20,7 @@ module.exports = {
             'tournaments/introduction'
         ],
         'Articles': [
+            'articles/release_notes',
             'ai/aiusage',
             'articles/biconomy',
             'articles/fonticulus_announce',
