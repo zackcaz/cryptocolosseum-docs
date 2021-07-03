@@ -18,7 +18,7 @@ There are two different ways to login, but if you are new to the game and to cry
 
 [Torus](https://tor.us) is used to create your wallet and link it to one of your existing accounts.  You don't need to worry about it for now, but you can access your Torus wallet through the "T" in a blue circle in the bottom left at any time.
 
-After completing the process you will recieve a grant of 6 free 100 PTG bets. This is the ingame currency of Crypto Colosseum.  You can exchange it for other cryptocurrencies or buy more PTG but that will be covered in a later guide.
+After completing the process you will recieve a grant of 6 free bets. This is the ingame currency of Crypto Colosseum.  You can exchange it for other cryptocurrencies or buy more PTG but that will be covered in a later guide.
 
 The signup is super easy and will take no more than a minute.
 
