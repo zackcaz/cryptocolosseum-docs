@@ -8,7 +8,7 @@ Each match is a competition between two gladiators.
 
 There are four primary influences on the outcome of a match.
 * The gladiators own stats, in particular Attack, Defense and Health
-* The faction that each gladiator reprsents
+* The faction that each gladiator represents
 * Any items that either gladiator has been assigned (max 3 prematch)
 * A random number which is used to generate the outcome
 
