@@ -32,6 +32,7 @@ module.exports = {
             'halloffame/goatcomebacks',
             'halloffame/goatpayouts',
             'halloffame/goatnarratives',
+            'halloffame/goatfancontests',
         ],
     },
 };
