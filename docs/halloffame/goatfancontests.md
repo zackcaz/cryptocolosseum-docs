@@ -6,7 +6,7 @@ slug: '/halloffame/fancontests'
 
 This page stands to record contests for and ny Crypto collseum fans.
 
-** Crypto Colosseum MEME MADNESS **
+** Crypto Colosseum's Marvelous Meme Mayhem **
 
 | Rank  | Prize  	| 
 |---	|---    |
