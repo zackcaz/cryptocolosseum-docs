@@ -13,7 +13,7 @@ John The Beast: https://arena.cryptocolosseum.com/gladiator/4?faction=BTC
 
 The battle mechanics are fairly simple. Attack determines the maximum "attack" roll and defense determines maximum "defense roll". Each battle is turn based. At the beginning of the turn we roll a 3-sided dice to determine who is the attacker. 
 
-If you won your last roll you get the 3rd side... otherwise it's a coin-flip. So if you won (attacking or defending) last you have a 2/3 chance of being the attacker.  This enables gladaitors to get on a roll and stage big comebacks.  Sometimes we refer to this as who has initiative.
+If you won your last roll you get the 3rd side... otherwise it's a coin-flip. So if you won (attacking or defending) last you have a 2/3 chance of being the attacker.  This enables gladiators to get on a roll and stage big comebacks.  Sometimes we refer to this as who has initiative.
 
 Then each side rolls a dice up to their maximum score (attack/defense). If defense is higher then it is a block.
 
