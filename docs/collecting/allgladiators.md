@@ -37,7 +37,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Troy Hard    | 905    | 745    |	1765    |  100  | [link](https://arena.cryptocolosseum.com/gladiator/17) |
 | Victor Victorious | 1020	| 750	| 1965  | 350 | [link](https://arena.cryptocolosseum.com/gladiator/18) |
 | Rhubarb Redribs | 1125	| 835	| 1655| 600 | [link](https://arena.cryptocolosseum.com/gladiator/19) |
-| Caesar Mayhem | 1340	| 705	| 1575| 400 | [link](https://arena.cryptocolosseum.com/gladiator/20) |
+| Caesar Mayhem | 1055	| 705	| 1575| 400 | [link](https://arena.cryptocolosseum.com/gladiator/20) |
 | TamTam | 1210	| 320	| 2440	| 400   | [link](https://arena.cryptocolosseum.com/gladiator/21) |
 | Talon | 1305	| 465	| 1635	| 300   | [link](https://arena.cryptocolosseum.com/gladiator/22) |
 | Nefertiti Nakamoto | 1195	| 760	| 1655	| 700   | [link](https://arena.cryptocolosseum.com/gladiator/23) |
