@@ -15,7 +15,6 @@ module.exports = {
             'combat/introduction', 
             'combat/items', 
             'combat/combatexample',
-            'combat/kingofthehill'
         ],
         'Tournaments': [
             'tournaments/introduction',
