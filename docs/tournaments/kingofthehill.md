@@ -1,7 +1,7 @@
 ---
 title: King Of the Hill Tournament
 sidebar_label: King of the Hill Tournament
-slug: '/gamemechanics'
+slug: '/kingofthehill'
 ---
 
 A pool of gladiators is selected ususally 6-8.

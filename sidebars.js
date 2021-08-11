@@ -18,7 +18,8 @@ module.exports = {
             'combat/kingofthehill'
         ],
         'Tournaments': [
-            'tournaments/introduction'
+            'tournaments/introduction',
+            'tournaments/kingofthehill'
         ],
         'Articles': [
             'articles/release_notes',
