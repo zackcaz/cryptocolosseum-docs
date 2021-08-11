@@ -14,7 +14,8 @@ module.exports = {
         'Game Mechanics': [
             'combat/introduction', 
             'combat/items', 
-            'combat/combatexample'
+            'combat/combatexample',
+            'combat/kingofthehill'
         ],
         'Tournaments': [
             'tournaments/introduction'
