@@ -28,6 +28,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Dread Pirate Roberta	| 1224	| 706	| 2012	| 600   | Lower the Boom  | [link](https://arena.cryptocolosseum.com/gladiator/25)  |
 | Leonidas Lancaster	| 1338	| 718	| 1720	| 600   | AlbionsAssault  | [link](https://arena.cryptocolosseum.com/gladiator/30)  |
 | Valar Morghulis	| 1268	| 662	| 2012	| 500   | CylcopeanStrike  | [link](https://arena.cryptocolosseum.com/gladiator/32)  |
+| Spartacus Rex	| 1248	| 648	| 2048	| 699   | THETHIRDTECHNIQUE  | [link](https://arena.cryptocolosseum.com/gladiator/35)  |
 
 ** GenOne: **
 
