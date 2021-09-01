@@ -10,8 +10,8 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 
 | Name  	| Attack   	| Defense  	| Health   	| Pop  	| Special  	| link  |
 |---	|---	|---	|---    |---    |---    |---    |
-| Pickolo  	| 775  	| 915  	| 2300  | 300   | YearnMerge    | [link](https://arena.cryptocolosseum.com/gladiator/1)  |
-| VitalStash	| 1300	| 705  	| 1905  | 400   | DoubleStrike  | [link](https://arena.cryptocolosseum.com/gladiator/2)  |
+| Pickolo  	| 775  	| 915  	| 2300  | 300   | Yearn Merge    | [link](https://arena.cryptocolosseum.com/gladiator/1)  |
+| VitalStash	| 1300	| 705  	| 1905  | 400   | Double Strike  | [link](https://arena.cryptocolosseum.com/gladiator/2)  |
 | Ariana Katana	| 1475	| 750	| 1640	| 800   | Heel Dive  | [link](https://arena.cryptocolosseum.com/gladiator/3)  |
 | JohnTheBeast	| 1350	| 365	| 2225	| 900   | Viral Thwack  | [link](https://arena.cryptocolosseum.com/gladiator/4)  |
 | Elvis Paisley	| 1175	| 835	| 1945	| 900   | Dazzle  | [link](https://arena.cryptocolosseum.com/gladiator/5)  |
@@ -26,8 +26,9 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Vang Diesel	| 1205	| 710	| 1990	| 400   | Vile Vang  | [link](https://arena.cryptocolosseum.com/gladiator/15)  |
 | Elwood Coin	| 1077	| 777	| 2047	| 500   | Emerald Coinado  | [link](https://arena.cryptocolosseum.com/gladiator/24)  |
 | Dread Pirate Roberta	| 1224	| 706	| 2012	| 600   | Lower the Boom  | [link](https://arena.cryptocolosseum.com/gladiator/25)  |
-| Leonidas Lancaster	| 1338	| 718	| 1720	| 600   | AlbionsAssault  | [link](https://arena.cryptocolosseum.com/gladiator/30)  |
-| Valar Morghulis	| 1268	| 662	| 2012	| 500   | CylcopeanStrike  | [link](https://arena.cryptocolosseum.com/gladiator/32)  |
+| Leonidas Lancaster	| 1338	| 718	| 1720	| 600   | Albions Assault  | [link](https://arena.cryptocolosseum.com/gladiator/30)  |
+| Valar Morghulis	| 1268	| 662	| 2012	| 500   | Cylcopean Strike  | [link](https://arena.cryptocolosseum.com/gladiator/32)  |
+| Spartacus Rex	| 1248	| 648	| 2048	| 699   | The Third Technique  | [link](https://arena.cryptocolosseum.com/gladiator/35)  |
 
 ** GenOne: **
 
