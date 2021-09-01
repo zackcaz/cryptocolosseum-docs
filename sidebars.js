@@ -35,6 +35,7 @@ module.exports = {
             'halloffame/goatpayouts',
             'halloffame/goatnarratives',
             'halloffame/goatfancontests',
+            'halloffame/championshipbanners',
         ],
     },
 };
