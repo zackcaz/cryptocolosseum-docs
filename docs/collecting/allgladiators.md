@@ -12,7 +12,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 |---	|---	|---	|---    |---    |---    |---    |
 | Pickolo  	| 775  	| 915  	| 2300  | 300   | Yearn Merge    | [link](https://arena.cryptocolosseum.com/gladiator/1)  |
 | VitalStash	| 1300	| 705  	| 1905  | 400   | Double Strike  | [link](https://arena.cryptocolosseum.com/gladiator/2)  |
-| Ariana Katana	| 1475	| 750	| 1640	| 800   | Heel Dive  | [link](https://arena.cryptocolosseum.com/gladiator/3)  |
+| Ariana Katana	| 1470	| 745	| 1645	| 800   | Heel Dive  | [link](https://arena.cryptocolosseum.com/gladiator/3)  |
 | JohnTheBeast	| 1350	| 365	| 2225	| 900   | Viral Thwack  | [link](https://arena.cryptocolosseum.com/gladiator/4)  |
 | Elvis Paisley	| 1175	| 835	| 1945	| 900   | Dazzle  | [link](https://arena.cryptocolosseum.com/gladiator/5)  |
 | Dentalion	| 1095	| 725	| 1935	| 700   | Pocket Sand  | [link](https://arena.cryptocolosseum.com/gladiator/6)  |
