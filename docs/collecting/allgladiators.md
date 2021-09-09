@@ -34,7 +34,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 
 | Name  	| Attack   	| Defense  	| Health   	| Pop  	| link  	|
 |---	|---	|---	|---    |---    |---    |
-| Vorpal    | 785    | 900    |	1850    |  300  |	[link](https://arena.cryptocolosseum.com/gladiator/16) |
+| Vorpal    | 785    | 895    |	1850    |  300  |	[link](https://arena.cryptocolosseum.com/gladiator/16) |
 | Troy Hard    | 905    | 745    |	1765    |  100  | [link](https://arena.cryptocolosseum.com/gladiator/17) |
 | Victor Victorious | 1020	| 750	| 1965  | 350 | [link](https://arena.cryptocolosseum.com/gladiator/18) |
 | Rhubarb Redribs | 1125	| 835	| 1655| 600 | [link](https://arena.cryptocolosseum.com/gladiator/19) |
