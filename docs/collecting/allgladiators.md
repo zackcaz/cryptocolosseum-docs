@@ -19,7 +19,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Haiku	| 1250	| 675	| 1900	| 600   | Metaphoric  | [link](https://arena.cryptocolosseum.com/gladiator/7)  |
 | Hammer of EOS	| 1250	| 550	| 2100	| 600   | Seismic Stake  | [link](https://arena.cryptocolosseum.com/gladiator/8)  |
 | Genghis Kate	| 1045	| 820	| 2055	| 600   | Axe-O-Rang  | [link](https://arena.cryptocolosseum.com/gladiator/9)  |
-| Esu Obirin	| 1295	| 635	| 2015	| 850   | Nocturnal Slice  | [link](https://arena.cryptocolosseum.com/gladiator/10)  |
+| Esu Obirin	| 1205	| 755	| 1990	| 500   | Nocturnal Slice  | [link](https://arena.cryptocolosseum.com/gladiator/10)  |
 | Neapolitan Neptune	| 1255	| 665	| 1850	| 800   | Chiappa Triple  | [link](https://arena.cryptocolosseum.com/gladiator/11)  |
 | Goerli	| 1015	| 805	| 2005	| 500  | Pot Picker  | [link](https://arena.cryptocolosseum.com/gladiator/12)  |
 | Jericho	| 1175	| 755	| 2000	| 400   | Requiem  | [link](https://arena.cryptocolosseum.com/gladiator/13)  |
