@@ -29,6 +29,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Leonidas Lancaster	| 1338	| 718	| 1720	| 600   | Albions Assault  | [link](https://arena.cryptocolosseum.com/gladiator/30)  |
 | Valar Morghulis	| 1268	| 662	| 2012	| 500   | Cylcopean Strike  | [link](https://arena.cryptocolosseum.com/gladiator/32)  |
 | Spartacus Rex	| 1248	| 648	| 2048	| 699   | The Third Technique  | [link](https://arena.cryptocolosseum.com/gladiator/35)  |
+| Hun Pluteus	| 1312	| 699	| 1811	| 650   | Hatchet Harvest  | [link](https://arena.cryptocolosseum.com/gladiator/36)  |
 
 ** GenOne: **
 
@@ -46,4 +47,6 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Tiamat | 1255 | 649 | 1800	| 825 | [link](https://arena.cryptocolosseum.com/gladiator/31) |
 | Fenris Alabaster | 1090 | 793 | 1715	| 500 | [link](https://arena.cryptocolosseum.com/gladiator/33) |
 | Spoticus Rex | 1352 | 732 | 1352	| 600 | [link](https://arena.cryptocolosseum.com/gladiator/34) |
+| Hun Rhazdon	| 973	| 893	| 1878	| 450 | [link](https://arena.cryptocolosseum.com/gladiator/37) |
+| Hun Umbra | 1333 | 623	| 1903	| 550 | [link](https://arena.cryptocolosseum.com/gladiator/38) |
 
