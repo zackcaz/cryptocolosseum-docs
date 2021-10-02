@@ -10,9 +10,9 @@ slug: '/'
 
 ### [You should join our discord](https://discord.gg/Z2S3EtQKCn).
 
-Crypto Colosseum is a new style of blockchain game on the Polygon (formerly Matic) network. It’s multiplayer, it’s casual, it’s crypto-economic, it’s enhanced by AI and (most importantly) it’s fun.
+Crypto Colosseum is a new style of blockchain game on the Polygon (formerly Matic) network. It’s multiplayer, it’s casual, it’s crypto-economic, it’s enhanced by AI, and (most importantly) it’s fun.
 
-Twice daily, gladiators battle it out in the arena. They fight for factions (ETH, Polygon, BTC). The price movement of those factions influences the matchups.
+Twice daily, gladiators battle it out in the arena. They fight for factions (ETH, Polygon, BTC, Doge). The price movement of those factions influences the matchups.
 
 Players (that's you) bet on the match. Players buy items to boost warriors (or undermine foes).
 
