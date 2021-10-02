@@ -32,7 +32,7 @@ You can actually get $PTG for free using [QiDAO](https://app.mai.finance/). The 
 
 ## Completely new?
 
-Here are some exchanges that offer withdrawl to the Polygon network.
+Here are some exchanges that offer withdrawal to the Polygon network.
 
 * [Binance](https://www.binance.com/)
 * [Crypto.com](https://crypto.com/app/gxgctev7n7)
