@@ -7,7 +7,7 @@ slug: '/gamemechanics/items'
 ![image](buyItems.png)
 
 There are four different types of items available in Crypto Colosseum.
-The four categories (currently) are potions, scrolls, oils and dusts. There are three levels of rarity for each type in the current set of items.
+The four categories (currently) are potions, scrolls, oils, and dusts. There are three levels of rarity for each type in the current set of items.
 
 More items will be created as the game continues to evolve.
 
