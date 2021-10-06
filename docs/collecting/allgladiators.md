@@ -49,4 +49,5 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Spoticus Rex | 1352 | 732 | 1352	| 600 | [link](https://arena.cryptocolosseum.com/gladiator/34) |
 | Hun Rhazdon	| 973	| 893	| 1878	| 450 | [link](https://arena.cryptocolosseum.com/gladiator/37) |
 | Hun Umbra | 1333 | 623	| 1903	| 550 | [link](https://arena.cryptocolosseum.com/gladiator/38) |
-
+| Lord Sander Of The Claw | 1046 | 799	| 1869	| 575 | [link](https://arena.cryptocolosseum.com/gladiator/39) |
+| Lady Claw | 1127 | 691	| 1971	| 675 | [link](https://arena.cryptocolosseum.com/gladiator/40) |
