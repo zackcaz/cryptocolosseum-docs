@@ -7,13 +7,14 @@ slug: '/gamemechanics'
 Each match is a competition between two gladiators.
 
 There are four primary influences on the outcome of a match.
-* The gladiators own stats, in particular Attack, Defense and Health
+* The gladiator stats: Attack, Defense, and Health
 * The faction that each gladiator represents
-* Any items that either gladiator has been assigned (max 3 prematch)
+* Any items that either gladiator has been assigned (max 3)
 * A random number which is used to generate the outcome
 
 A match has a series of rounds.  Each round has an attacker and a defender.
-At the start of the match it is essentially random who attacks first, but for each subsequent round one gladiator has the edge.  This edge is a two out of three chances of getting to attack next.
+At the start of the match it is essentially random who attacks first, but for each subsequent round one gladiator has the edge.  
+This edge is a two out of three chances of getting to attack next.
 
 If the attacker was successful in the previous round and did damage they have the initiative and have the 2/3 chances of attacking.
 
