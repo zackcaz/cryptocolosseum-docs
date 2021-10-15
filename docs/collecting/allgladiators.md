@@ -51,3 +51,4 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Hun Umbra | 1333 | 623	| 1903	| 550 | [link](https://arena.cryptocolosseum.com/gladiator/38) |
 | Lord Sander Of The Claw | 1046 | 799	| 1869	| 575 | [link](https://arena.cryptocolosseum.com/gladiator/39) |
 | Lady Claw | 1127 | 691	| 1971	| 675 | [link](https://arena.cryptocolosseum.com/gladiator/40) |
+
