@@ -28,6 +28,7 @@ module.exports = {
             'articles/fonticulus2_announce',
             'articles/get_matic',
             'articles/league_evolution',
+            'articles/seasons',
         ],
         'Hall Of Fame': [
             'halloffame/goathits',
