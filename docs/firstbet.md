@@ -10,7 +10,9 @@ Gladiators fight in tournaments.  You place your bet on which of the four gladia
 
 ## Video Walkthrough
 
-<iframe width="640" height="400" src="https://www.loom.com/share/8d0dc74808d04a879d8da1989f5ab225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div style={{position: 'relative', paddingBottom: '75.5%', height: 0}}>
+    <iframe src="https://www.loom.com/embed/8d0dc74808d04a879d8da1989f5ab225" frameBorder={0} webkitallowfullscreen={'true'} mozallowfullscreen={'true'} allowFullScreen style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}} />
+</div>
 
 To get in on the action, you'll need to take the first step: Sign up.  Click on the orange "Sign in / Sign up" button in the upper-right hand corner to do so. Its easy, we promise.
 
