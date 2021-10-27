@@ -8,15 +8,10 @@ Crypto Colosseum is (in the beginning) a simple gambling game.
 
 Gladiators fight in tournaments.  You place your bet on which of the four gladiators will win the tournament.  Choose wisely, and you'll get a share of the prize purse.
 
-<<<<<<< HEAD
-## Video Walkthrough
-
 <div style={{position: 'relative', paddingBottom: '75.5%', height: 0}}>
     <iframe src="https://www.loom.com/embed/8d0dc74808d04a879d8da1989f5ab225" frameBorder={0} webkitallowfullscreen={'true'} mozallowfullscreen={'true'} allowFullScreen style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}} />
 </div>
 
-=======
->>>>>>> 0e1027b3a57b572c1c3fa0a90db5ce4aab5ce5c4
 To get in on the action, you'll need to take the first step: Sign up.  Click on the orange "Sign in / Sign up" button in the upper-right hand corner to do so. Its easy, we promise.
 
 ![image](signIn.png)
