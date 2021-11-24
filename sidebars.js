@@ -1,6 +1,6 @@
 module.exports = {
     someSidebar: {
-        'Start here': ['welcome', 'firstbet', 'ptg/howto'],
+        'Start here': ['welcome', 'firstbet', 'ptg/howto','worldofcc'],
         'Collecting': [
             'collecting/gladiators',
             'collecting/allgladiators'
