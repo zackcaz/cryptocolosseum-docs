@@ -35,7 +35,7 @@ The rest as they say, is future history.
 
 Katana's backstory is lovingly crafted by [GPT3](https://en.wikipedia.org/wiki/GPT-3). You can relive one of her epic tournament wins [here](https://arena.cryptocolosseum.com/battle/0x010001000004/1/0).
 
-As she continues to battle in the Arena, she is accumulating PTG ([5% of the bets](../economy)).
+As she continues to battle in the Arena, she is accumulating PTG ([5% of the bets](https://docs.cryptocolosseum.com/economy)).
 
 Owning the Katana NFT (referred to as the 'gladiator contract') is both a timeless collectable piece of art, history, battles, glory, and also a *cashflow* generating asset.
 
