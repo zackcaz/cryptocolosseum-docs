@@ -37,3 +37,8 @@ Other leagues will continue to evolve beneath these leagues, feeding their champ
 
 [Learn more about Crypto Colosseum's Leagues here](https://docs.cryptocolosseum.com/articles/league_evolution)
 
+***Tournament Creation Schedule***
+
+Tournaments are created in batches 4 times a week.
+
+
