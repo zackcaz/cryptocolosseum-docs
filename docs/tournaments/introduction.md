@@ -41,11 +41,11 @@ Other leagues will continue to evolve beneath these leagues, feeding their champ
 
 Tournaments are created in batches 4 times a week.
 
-|  |  |  |
-|---    |---    |---  |
-| SUNDAY    | 2PM GMT, 9AM EST | MON-THU ALPHA and OMEGAs |
-| TUESDAY    | 8PM GMT, 3PM EST | Weeky League Tournaments | 
-| WEDNSDAY  | 2PM GMT, 9AM EST | FRI-SUN ALPHA and OMEGAs |
-| THURSDAY  | 8PM GMT, 3PM EST | OCTOs or LEAGE CHAMPS |
+|           |                  |                           |
+|---        |---               |---                        |
+| SUNDAY    | 2PM GMT, 9AM EST | MON-THU ALPHA and OMEGAs  |
+| TUESDAY   | 8PM GMT, 3PM EST | Weekly League Tournaments | 
+| WEDNESDAY | 2PM GMT, 9AM EST | FRI-SUN ALPHA and OMEGAs  |
+| THURSDAY  | 8PM GMT, 3PM EST | OCTOs or LEAGUE CHAMPS    |
 
 
