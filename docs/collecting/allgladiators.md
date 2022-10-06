@@ -30,6 +30,7 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Valar Morghulis	| 1268	| 662	| 2012	| 500   | Cylcopean Strike  | [link](https://arena.cryptocolosseum.com/gladiator/32)  |
 | Spartacus Rex	| 1248	| 648	| 2048	| 699   | The Third Technique  | [link](https://arena.cryptocolosseum.com/gladiator/35)  |
 | Hun Pluteus	| 1312	| 699	| 1811	| 650   | Hatchet Harvest  | [link](https://arena.cryptocolosseum.com/gladiator/36)  |
+| Octogo Yearn	| 1148	| 708	| 2008	| 675   | Rogufu Guardbreaker  | [link](https://arena.cryptocolosseum.com/gladiator/41)  |
 
 ** GenOne: **
 
@@ -51,4 +52,14 @@ The arena features up to 99 primordial gladiators and a over time a larger numbe
 | Hun Umbra | 1333 | 623	| 1903	| 550 | [link](https://arena.cryptocolosseum.com/gladiator/38) |
 | Lord Sander Of The Claw | 1046 | 799	| 1869	| 575 | [link](https://arena.cryptocolosseum.com/gladiator/39) |
 | Lady Claw | 1127 | 691	| 1971	| 675 | [link](https://arena.cryptocolosseum.com/gladiator/40) |
+| Stalin Grinsplit | 888 | 905	| 1985 | 225 | [link](https://arena.cryptocolosseum.com/gladiator/42) |
+| Haydrian Kinderfist | 999 | 899	| 188 | 355 | [link](https://arena.cryptocolosseum.com/gladiator/43) |
+| Omakase Oxtorque | 1299 | 676	| 1424 | 715 | [link](https://arena.cryptocolosseum.com/gladiator/44) |
+| Hun Zhu | 1229 | 629 | 1799	| 345 | [link](https://arena.cryptocolosseum.com/gladiator/45) |
+| Nocturne | 1054 | 654	| 2044	| 444 | [link](https://arena.cryptocolosseum.com/gladiator/46) |
+| Imperator Krav Lagrav | 1019 | 719 | 2206	| 315 | [link](https://arena.cryptocolosseum.com/gladiator/47) |
+| Imperator Bronwyn Braggadocious | 949 | 819	| 2121 | 420 | [link](https://arena.cryptocolosseum.com/gladiator/48) |
+| Imperator Grendel Grinder | 1239 | 566 | 2003 | 655 | [link](https://arena.cryptocolosseum.com/gladiator/49) |
+| Lord Blackenfiend | 1288 | 605 | 1803 | 600 | [link](https://arena.cryptocolosseum.com/gladiator/50) |
+| Carol Axehammer | 1180 | 657 | 1922 | 400 | [link](https://arena.cryptocolosseum.com/gladiator/51) |
 
